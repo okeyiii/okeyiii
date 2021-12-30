@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okeyiii
 - 👀 I’m interested in Data Science, Quantative Analysis
-- 🌱 I’m currently learning Financial Mathematics
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and C
+- 💞️ I’m a freshman in code world
 - 📫 How to reach me kzhu19@jh.edu
 
 <!---
