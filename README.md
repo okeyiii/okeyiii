@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okeyiiiii
+- 👋 Hi, I’m @okeyiii
 - 👀 I’m interested in Data Science, Quantative Analysis
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m a freshman in code world
